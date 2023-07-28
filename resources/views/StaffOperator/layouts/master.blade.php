@@ -1,0 +1,5 @@
+@include('StaffOperator.layouts.header')
+@include('StaffOperator.layouts.navbar')
+@include('StaffOperator.layouts.sidebar')
+@include('StaffOperator.layouts.content')
+@include('StaffOperator.layouts.footer')
